@@ -1,0 +1,50 @@
+p, h2, li {
+  text-align: center;
+}
+
+.header{
+  background: rgb(2,0,36);
+  background: linear-gradient(90deg, rgba(191,145,91,1) 0%, rgba(2,0,36,1) 0%, rgba(0,212,255,1) 100%);
+  text-align: center ;
+}
+
+.about-me{
+  font-size: 20px;
+  opacity: 0.75;
+  color: azure;
+  padding-bottom: 20px;
+}
+
+.title{
+  font-weight: bold;
+}
+
+h1 {
+  color: azure;
+}
+
+body {
+  font-family: Georgia;
+  background-image: 
+  url('https://content.codecademy.com/courses/learn-css-selectors-visual-rules/hypnotize_bg.png');
+}
+
+.title {
+  text-align: center;
+}
+
+ul {
+  list-style-type: square;
+  margin: 0;
+  padding: 0;
+}
+ ul li {
+  margin: 0;
+  padding: 0;
+}
+
+img {
+  border: 3px solid azure;
+}
+
+
